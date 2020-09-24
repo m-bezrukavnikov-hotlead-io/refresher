@@ -6,6 +6,8 @@
 // @author       You
 // @match        https://crm.hotlead.io/callcenter
 // @match        http://localhost:8080/callcenter
+// @downloadURL  https://github.com/m-bezrukavnikov-hotlead-io/refresher/raw/master/refresher.user.js
+// @updateURL    https://github.com/m-bezrukavnikov-hotlead-io/refresher/raw/master/refresher.user.js
 // @grant        none
 // ==/UserScript==
 
