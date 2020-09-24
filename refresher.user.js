@@ -13,14 +13,12 @@
 
 (function() {
     'use strict';
-
     let elements = document.querySelectorAll('title');
     console.log(elements[0]);
     elements[0].innerText = "↻";
 
-    function Refresh(){
+    function refresh(){
         window.location.reload(false);
     }
-
-    setTimeout(Refresh, 60000);
+    setTimeout(refresh, 60000);
 })();
